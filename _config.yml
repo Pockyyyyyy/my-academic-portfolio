@@ -3,5 +3,3 @@ plugins:
   - jekyll-remote-theme
 title: [Hongbing Pan's Academic Portfolio Website]
 description: [Academic Portfolio Website for Introduction to T&T]
-baseurl: "/my-academic-portfolio"
-url: "https://pockyyyyyy.github.io"
