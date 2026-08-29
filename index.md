@@ -14,7 +14,9 @@ title: Hongbing Pan - Academic Portfolio
   <h1>Hongbing Pan</h1>
 </div>
 
-## Instructor in Games and Interactive Media | PhD Student in Texts and Technology
+## Instructor in Games and Interactive Media
+
+## PhD Student in Texts and Technology
 
 ### About Me
 
