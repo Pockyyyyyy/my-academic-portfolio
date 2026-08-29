@@ -5,7 +5,14 @@ title: Hongbing Pan - Academic Portfolio
 
 <img src="assets/featured-image.jpg" alt="Hongbing Pan" width="315">
 
-# Hongbing Pan
+<div class="profile-title">
+  <img
+    src="assets/cabbage.png"
+    alt=""
+    class="profile-title-icon"
+  >
+  <h1>Hongbing Pan</h1>
+</div>
 
 ## Instructor in Games and Interactive Media | PhD Student in Texts and Technology
 
