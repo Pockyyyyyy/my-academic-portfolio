@@ -1,47 +1,26 @@
-header {
-
-    background: black;
-
-}
-
-header a.button {
-
-    background: green
-}
-
-aside a.button {
-
-    background: darkgreen
-}
-
-#main-content h2:before {
-
-    color: lightgreen;
-
-}
-
-#main-content h1:before {
-
-    color: lightgreen;
-
-}
-
-#main-content h3 {
-
-    color: lightgreen;
-
-}
-
-#main-content h4 {
-
-    color: lightgreen;
-
-}
-
-#main-content h6 {
-
-    color: lightgreen;
-
-}
+--- 
+--- 
 
 @import "{{ site.theme }}";
+
+/* Header background */
+header {
+    background: #222222;
+}
+
+/* Header GitHub button */
+header a.button {
+    background: #555555;
+}
+
+/* Sidebar buttons */
+aside a.button {
+    background: #396b5a;
+}
+
+/* Heading decoration colors */
+#main-content h1:before,
+#main-content h2:before,
+#main-content h3:before {
+    color: #74b89e;
+}
