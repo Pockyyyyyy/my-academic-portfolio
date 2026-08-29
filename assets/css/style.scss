@@ -3,19 +3,13 @@
 
 @import "{{ site.theme }}";
 
-/* Header background */
 header {
     background: #222222;
 }
 
-/* Header GitHub button */
-header a.button {
-    background: #555555;
-}
-
 /* Sidebar buttons */
 aside a.button {
-    background: #396b5a;
+    background: transparent url(../orange.png) 0 0 no-repeat;
 }
 
 /* Heading decoration colors */
