@@ -12,10 +12,23 @@ aside a.button {
     background-image: transparent url("../orange_bear_icon.png");
     background-position: center;
     background-repeat: no-repeat;
+    padding: 0 10px 0 58px;
+    align-items: center;
+    justify-content: center;
     background-size: 100% 100%;
 }
 
-/* Heading decoration colors */
+header a.button {
+    background: transparent url(../dark_bear_icon.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0 10px 0 58px;
+    align-items: center;
+    justify-content: center;
+    background-size: 100% 100%;
+
+}
+
 #main-content h1:before,
 #main-content h2:before,
 #main-content h3:before {
