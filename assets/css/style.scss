@@ -49,12 +49,6 @@ header a.button {
 
 }
 
-#main-content h1:before,
-#main-content h2:before,
-#main-content h3:before {
-    color: #74b89e;
-}
-
 .profile-title {
     display: flex;
     align-items: center;
@@ -68,7 +62,9 @@ header a.button {
     text-indent: 0;
 }
 
-#main-content .profile-title h1:before {
+#main-content .profile-title h1:before,
+ #main-content h2:before,
+ #main-content h3:before{
     content: none;
 }
 
