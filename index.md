@@ -3,7 +3,7 @@ layout: default
 title: Hongbing Pan - Academic Portfolio
 ---
 
-<img src="assets/featured-image.jpg" alt="Hongbing Pan" width="313">
+<img src="assets/featured-image.jpg" alt="Hongbing Pan" width="315">
 
 # Hongbing Pan
 
