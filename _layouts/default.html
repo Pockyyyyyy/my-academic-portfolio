@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
 
 <head>
     <meta charset='utf-8'>
@@ -41,10 +41,9 @@
             </section>
 
             <aside id="sidebar">
-                        <a href="https://pockyyyyyy.github.io/my-academic-portfolio/" class="button">Home</a>
-                        <a href="teaching" class="button">Teaching</a>
-                        <a href="projects" class="button">Projects</a>
-                        <a href="projects" class="button">Projects</a>
+                <a href="{{ '/' | relative_url }}" class="button">Home</a>
+                <a href="{{ '/teaching/' | relative_url }}" class="button">Teaching</a>
+                <a href="{{ '/projects/' | relative_url }}" class="button">Projects</a>
                 {% if site.show_downloads %}
                 <a href="{{ site.github.zip_url }}" class="button">
                     <small>Download</small>
