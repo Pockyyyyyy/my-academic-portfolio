@@ -3,7 +3,14 @@ layout: default
 title: Projects
 ---
 
-# Projects
+<div class="profile-title">
+  <img
+    src="../assets/tomato2.png"
+    alt=""
+    class="profile-title-icon"
+  >
+  <h1>Projects</h1>
+</div>
 
 ## [**La Llorona (2019)**](https://hongbingpan.com/game-projects/la-llorona)
 

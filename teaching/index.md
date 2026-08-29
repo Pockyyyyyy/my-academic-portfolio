@@ -3,7 +3,14 @@ layout: default
 title: Teaching Experience
 ---
 
-# Teaching Experience
+<div class="profile-title">
+  <img
+    src="../assets/tomato.png"
+    alt=""
+    class="profile-title-icon"
+  >
+  <h1>Teaching Experience</h1>
+</div>
 
 ## DIG 2030 Digital Video Fundamentals
 

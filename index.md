@@ -14,23 +14,10 @@ title: Hongbing Pan - Academic Portfolio
   <h1>Hongbing Pan</h1>
 </div>
 
-<div class="profile-title">
-  <img
-    src="assets/tomato.png"
-    alt=""
-    class="profile-title-icon"
-  >
-  <h2>Instructor in Games and Interactive Media | PhD Student in Texts and Technology</h2>
-</div>
+## Instructor in Games and Interactive Media | PhD Student in Texts and Technology
 
-<div class="profile-title">
-  <img
-    src="assets/tomato2.png"
-    alt=""
-    class="profile-title-icon"
-  >
-  <h3>About Me</h3>
-</div>
+### About Me
+
 I am Hongbing Pan, an instructor in Games and Interactive Media and a PhD student in Texts and Technology at UCF. My background includes game design, programming, video editing, and illustration. I hold an MA in Digital Media from UCF and a BFA in Game Design from the Maryland Institute College of Art.
 
 My research focuses on using AI in game and web design and exploring how it can be integrated into education. I am particularly interested in developing AI-supported learning tools using Unity or web technologies to help students understand bugs and solve programming problems.
