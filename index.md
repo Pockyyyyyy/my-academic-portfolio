@@ -3,8 +3,6 @@ layout: default
 title: Hongbing Pan - Academic Portfolio
 ---
 
-<img src="assets/featured-image.jpg" alt="Hongbing Pan" width="315">
-
 <div class="profile-title">
   <img
     src="assets/cabbage.png"
@@ -13,6 +11,8 @@ title: Hongbing Pan - Academic Portfolio
   >
   <h1>Hongbing Pan</h1>
 </div>
+
+<img src="assets/featured-image.jpg" alt="Hongbing Pan" width="315">
 
 ## Instructor in Games and Interactive Media
 
