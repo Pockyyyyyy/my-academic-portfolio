@@ -1,5 +1,4 @@
---- 
---- 
+
 
 @import "{{ site.theme }}";
 
@@ -8,8 +7,10 @@ header {
 }
 
 /* Sidebar buttons */
-aside a.button {
-    background: transparent url("../orange_bear_icon.png");
+aside a.button,
+aside a.button1,
+aside a.button2,
+aside a.button3 {
     margin-bottom: 20px;
     box-sizing: border-box;
     display: flex;
@@ -20,13 +21,31 @@ aside a.button {
     height: 80px;
 
     padding: 0 10px 0 58px;
-
     text-align: center;
 
     background-position: center;
     background-repeat: no-repeat;
     background-size: 202px 80px;
+}
 
+/* Home */
+aside a.button {
+    background-image: url("../cabbage_bear_icon.png");
+}
+
+/* Teaching */
+aside a.button1 {
+    background-image: url("../tomato_icon.png");
+}
+
+/* Projects */
+aside a.button2 {
+    background-image: url("../tomato2_icon.png");
+}
+
+/* CV */
+aside a.button3 {
+    background-image: url("../sandwich_icon.png");
 }
 
 header a.button {
