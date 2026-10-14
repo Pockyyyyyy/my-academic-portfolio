@@ -5,7 +5,7 @@ title: CV
 
 <div class="profile-title">
   <img
-    src="../assets/sandwich.png"
+    src="../assets/orange.png"
     alt=""
     class="profile-title-icon"
   >

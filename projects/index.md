@@ -107,8 +107,6 @@ title: Projects
 
 ## [**Liao Zhai Zhi Yi (2022)**](https://hongbingpan.com/game-projects/liao-zhai-zhi-yi-2022-bitsy)
 
-<a href="{{ '/games/' | relative_url }}" class="button">Games</a>
-
 - Description
   - Developed using Bitsy, incorporating partial custom coding.
   - The narrative is inspired by Strange Tales from a Chinese Studio (Liao Zhai Zhi Yi), a classic collection of Chinese folk tales, and reimagined within an original story.
